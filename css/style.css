@@ -1,0 +1,32 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.8rem;
+}
+
+
+.centraliza-texto {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-shadow:  2px 2px 5px red;
+}
+
+div {
+    background-color: #ff0000 ;
+    margin-top:  10px;
+    margin-bottom: 10px;
+    /* cima - direita - baixo - esqueda */
+    margin: 5px 5px 5px 5px;
+    width: 300px;
+    padding: 5px;
+    
+
+}
+
+label {
+    display: block;
+}
+#retorno {
+    padding: 4px;
+    text-shadow: 2px 2px 2px  red;
+}
