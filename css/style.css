@@ -8,11 +8,11 @@ body{
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 5px;
-    text-shadow:  2px 2px 5px red;
+  
 }
 
 div {
-    background-color: #ff0000 ;
+    /* background-color: #ff0000 ; */
     margin-top:  10px;
     margin-bottom: 10px;
     /* cima - direita - baixo - esqueda */
@@ -28,5 +28,5 @@ label {
 }
 #retorno {
     padding: 4px;
-    text-shadow: 2px 2px 2px  red;
+    /* text-shadow: 2px 2px 2px  red; */
 }
