@@ -5,3 +5,10 @@ body {
 .card {
     box-shadow: rgb(37, 37, 37) 1px 1px 8px;
 }
+.lista-size{
+    max-height: 400px;
+}
+.list-group li:hover, label:hover { 
+    background: #eee;
+    cursor: pointer;
+}
